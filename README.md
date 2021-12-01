@@ -6,4 +6,4 @@ Vamos supor que eu tenho 1 hora para completar uma tarefa, mas eu quero dar paus
 
 Esse programa faz isso basicamente
 
-![image](https://user-images.githubusercontent.com/53710131/144160013-9646ab7d-44ac-4f4b-83f3-fdba6cf01187.png)
+![image](https://user-images.githubusercontent.com/53710131/144160096-33a60400-8a37-46f1-bbf7-b530df1f872e.png)
